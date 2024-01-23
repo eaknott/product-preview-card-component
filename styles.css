@@ -93,9 +93,11 @@ button {
     font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: row;
+    width: 220px;
     justify-content: center;
+    align-items: center;
     gap: 12px;
-    margin-bottom: 1.4em;
+    margin: auto auto 1.4em auto;
     font-weight: 700;
 }
 
