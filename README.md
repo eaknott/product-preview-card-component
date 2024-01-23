@@ -41,6 +41,10 @@ Users should be able to:
 
 This project was a good review of basic HTML and CSS flexbox with responsive mobile design in mind. 
 
+I often forget to include height and width properties in the body of CSS in order to properly center containers on the page.
+
+Frontend Mentor also gave me very helpful notes on better practices for Accessibility.
+
 ### Continuing development
 
 Keeping accessibility in mind throughout my work flow in each project.
