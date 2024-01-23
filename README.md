@@ -61,6 +61,8 @@ Keeping accessibility in mind throughout my work flow in each project.
 
 - [Stack Overflow](https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping) - This helped me when I need to change the image src when loading in a mobile screen version.
 - [W3Schools](https://www.w3schools.com/accessibility/accessibility_landmarks.php) - This article was helpful in learning the importance of using landmarks for accessibility.
+- [Deque University](https://dequeuniversity.com/rules/axe/4.6/landmark-one-main?application=axeAPI) - More detailed information on using landmarks for accessibility.
+- [W3.org](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/HTML5.html) - helpful article of HTML sectioning elements and ARIA landmarks.
 
 ## Author
 
